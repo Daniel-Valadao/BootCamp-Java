@@ -1,2 +1,2 @@
 # BootCamp-Java
-Postarei toda minha trajet´ria de exercicios e desafios do BootCamp com a linguagem JAVA
+Postarei toda minha trajetória de exercicios e desafios do BootCamp com a linguagem JAVA
